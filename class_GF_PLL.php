@@ -26,6 +26,7 @@ class GF_PLL {
       'label',
       'customLabel',
       'value',
+      'checkboxLabel',
       'subject'
     );
 
